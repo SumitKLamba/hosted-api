@@ -1,0 +1,24 @@
+{
+  "name": "hosted-api",
+  "version": "1.0.0",
+  "description": "nodejs api hosted on aws ec2 instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitKLamba/hosted-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitKLamba/hosted-api/issues"
+  },
+  "homepage": "https://github.com/SumitKLamba/hosted-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
